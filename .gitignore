@@ -1,0 +1,33 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment variables
+.env
+
+# Virtual environment directory (if you are using one)
+venv/
+env/
+
+# Flask specific
+instance/
+
+# PyCharm or VSCode editor config files (if using these IDEs)
+.idea/
+.vscode/
+
+# MacOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs or temporary files
+*.log
+*.pot
+*.pyc
+
+# Backup files
+*.bak
+*.swp
